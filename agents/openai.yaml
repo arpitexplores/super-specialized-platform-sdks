@@ -1,0 +1,4 @@
+interface:
+  display_name: "Super Platform SDKs"
+  short_description: "Shopify, Salesforce, Telegram/Discord bots"
+  default_prompt: "Use $super-specialized-platform-sdks to help with this request."

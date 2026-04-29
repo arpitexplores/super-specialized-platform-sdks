@@ -1,0 +1,22 @@
+{
+  "name": "super-specialized-platform-sdks",
+  "title": "Super Specialized Platform SDKs",
+  "description": "Specialized platform SDKs: ERP/CRM, commerce platforms, and messaging/bot platforms.",
+  "version": "0.1.0",
+  "source_catalogue": "skills-super",
+  "skill_entrypoint": "SKILL.md",
+  "modules": [
+    {
+      "name": "Salesforce Development",
+      "path": "references/modules/salesforce-development.md"
+    },
+    {
+      "name": "Shopify Development",
+      "path": "references/modules/shopify-development.md"
+    },
+    {
+      "name": "Telegram/Discord Bots",
+      "path": "references/modules/telegram-bot-builder.md"
+    }
+  ]
+}

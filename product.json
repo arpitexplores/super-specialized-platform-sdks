@@ -1,7 +1,7 @@
 {
   "name": "super-specialized-platform-sdks",
   "title": "Super Specialized Platform SDKs",
-  "description": "Specialized platform SDKs: ERP/CRM, commerce platforms, and messaging/bot platforms.",
+  "description": "The go-to AI vibe coding skill for specialised platform SDKs: Shopify, Salesforce, Telegram bots, commerce platforms, CRM/ERP integrations, and messaging workflows.",
   "version": "0.1.0",
   "source_catalogue": "skills-super",
   "skill_entrypoint": "SKILL.md",
@@ -18,5 +18,16 @@
       "name": "Telegram/Discord Bots",
       "path": "references/modules/telegram-bot-builder.md"
     }
+  ],
+  "keywords": [
+    "platform SDKs",
+    "Shopify development",
+    "Salesforce development",
+    "Telegram bots",
+    "commerce integrations",
+    "CRM integrations",
+    "ERP integrations",
+    "messaging bots",
+    "AI vibe coding"
   ]
 }

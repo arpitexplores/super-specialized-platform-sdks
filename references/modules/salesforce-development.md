@@ -1,5 +1,4 @@
-## Source: references/skills/salesforce-development/SKILL.md
-
+## Module: Salesforce Development
 ---
 name: salesforce-development
 description: "Expert patterns for Salesforce platform development including Lightning Web Components (LWC), Apex triggers and classes, REST/Bulk APIs, Connected Apps, and Salesforce DX with scratch orgs and 2nd ..."
@@ -59,7 +58,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: convex
@@ -862,7 +861,7 @@ npx convex logs
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: django-access-review
@@ -1211,7 +1210,7 @@ Use this to guide your review, not as a pass/fail checklist:
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: django-perf-review
@@ -1612,7 +1611,7 @@ If your only suggestion is "combine these two lines" or "rename this variable" -
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: django-pro
@@ -1795,7 +1794,7 @@ Expert Django developer specializing in Django 5.x best practices, scalable arch
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: expo-dev-client
@@ -1964,7 +1963,7 @@ eas update
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: expo-tailwind-setup
@@ -2449,7 +2448,7 @@ type Props = React.ComponentProps<typeof RNView> & { className?: string };
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: firebase
@@ -2515,7 +2514,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: hubspot-integration
@@ -2567,7 +2566,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: m365-agents-dotnet
@@ -2866,7 +2865,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: m365-agents-py
@@ -3216,7 +3215,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: m365-agents-ts
@@ -3407,7 +3406,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: neon-postgres
@@ -3473,7 +3472,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: nestjs-expert
@@ -4034,7 +4033,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: new-rails-project
@@ -4097,7 +4096,7 @@ Verify the boilerplate is working by running `bin/rails server` and accessing th
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: odoo-accounting-setup
@@ -4207,7 +4206,7 @@ Action:
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: odoo-automated-tests
@@ -4336,7 +4335,7 @@ class TestPatientController(HttpCase):
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: odoo-backup-strategy
@@ -4453,7 +4452,7 @@ docker compose start odoo
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: odoo-ecommerce-configurator
@@ -4591,7 +4590,7 @@ Note: Some Odoo hosting plans may require "Email Marketing" app enabled.
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: odoo-edi-connector
@@ -4707,7 +4706,7 @@ IEA*1*{isa_control}~"""
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: odoo-module-developer
@@ -4814,7 +4813,7 @@ class HospitalPatient(models.Model):
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: odoo-orm-expert
@@ -4908,7 +4907,7 @@ for partner in partners:
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: odoo-project-timesheet
@@ -5029,7 +5028,7 @@ Step 3: Invoice pre-populates with:
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: odoo-purchase-workflow
@@ -5138,7 +5137,7 @@ based on the ordered quantity for this vendor.
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: odoo-qweb-templates
@@ -5238,7 +5237,7 @@ QWeb is Odoo's primary templating engine, used for PDF reports, website pages, a
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: odoo-sales-crm-expert
@@ -5352,7 +5351,7 @@ Assign to a customer:
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: odoo-upgrade-advisor
@@ -5480,7 +5479,7 @@ Users & Security:
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: odoo-xml-views-builder
@@ -5587,7 +5586,7 @@ This skill generates and reviews Odoo XML view definitions for Kanban, Form, Lis
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: paypal-integration
@@ -6074,7 +6073,7 @@ def test_payment_flow():
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: plaid-fintech
@@ -6134,7 +6133,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: rails-upgrade
@@ -6145,7 +6144,7 @@ description: Rails Upgrade
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: skill-rails-upgrade
@@ -6559,7 +6558,7 @@ Use this skill when working with analyze rails apps and provide upgrade assessme
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: stripe-integration
@@ -7021,7 +7020,7 @@ def test_payment_flow():
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: upgrading-expo
@@ -7145,7 +7144,7 @@ For more information, see the [source repository](https://github.com/expo/skills
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: using-neon
@@ -7235,7 +7234,7 @@ Managing Neon resources programmatically via REST API, SDKs, or CLI.
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: vercel-ai-sdk-expert
@@ -7462,7 +7461,7 @@ When using `maxSteps`, the `useChat` hook will display intermediate tool calls i
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: wordpress
@@ -7785,7 +7784,7 @@ Before moving to next phase, verify:
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: wordpress-plugin-development
@@ -7993,7 +7992,7 @@ plugin-name/
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: wordpress-theme-development
@@ -8184,8 +8183,7 @@ theme-name/
 - `wordpress-plugin-development` - Plugin development
 - `wordpress-woocommerce` - WooCommerce
 
-## Source: references/skills/salesforce-development/references/legacy/convex/SKILL.md
-
+## Imported Module: Convex
 ---
 name: convex
 description: "Convex reactive backend expert: schema design, TypeScript functions, real-time subscriptions, auth, file storage, scheduling, and deployment."
@@ -8985,8 +8983,7 @@ npx convex logs
 - [Discord Community](https://convex.dev/community)
 - [Convex Chef (AI Starter)](https://chef.convex.dev)
 
-## Source: references/skills/salesforce-development/references/legacy/django-access-review/SKILL.md
-
+## Imported Module: Django Access Review
 ---
 name: django-access-review
 description: django-access-review
@@ -9332,8 +9329,7 @@ Use this to guide your review, not as a pass/fail checklist:
 □ I've only reported issues I've confirmed through investigation
 ```
 
-## Source: references/skills/salesforce-development/references/legacy/django-perf-review/SKILL.md
-
+## Imported Module: Django Perf Review
 ---
 name: django-perf-review
 description: Django performance code review. Use when asked to "review Django performance", "find N+1 queries", "optimize Django", "check queryset performance", "database performance", "Django ORM issues", or audit Django code for performance problems.
@@ -9731,8 +9727,7 @@ N+1 requires a loop. A single object doing 2 queries instead of 1 can be reporte
 **Style preferences are not performance issues:**
 If your only suggestion is "combine these two lines" or "rename this variable" - that's style, not performance. Don't report it.
 
-## Source: references/skills/salesforce-development/references/legacy/django-pro/SKILL.md
-
+## Imported Module: Django Pro
 ---
 name: django-pro
 description: Master Django 5.x with async views, DRF, Celery, and Django Channels. Build scalable web applications with proper architecture, testing, and deployment.
@@ -9912,8 +9907,7 @@ Expert Django developer specializing in Django 5.x best practices, scalable arch
 - "Implement JWT authentication with refresh tokens in DRF"
 - "Create a robust background task system with Celery"
 
-## Source: references/skills/salesforce-development/references/legacy/expo-dev-client/SKILL.md
-
+## Imported Module: Expo Dev Client
 ---
 name: expo-dev-client
 description: Build and distribute Expo development clients locally or via TestFlight
@@ -10079,8 +10073,7 @@ eas --version
 eas update
 ```
 
-## Source: references/skills/salesforce-development/references/legacy/expo-tailwind-setup/SKILL.md
-
+## Imported Module: Expo Tailwind Setup
 ---
 name: expo-tailwind-setup
 description: Set up Tailwind CSS v4 in Expo with react-native-css and NativeWind v5 for universal styling
@@ -10562,8 +10555,7 @@ Add className to component props:
 type Props = React.ComponentProps<typeof RNView> & { className?: string };
 ```
 
-## Source: references/skills/salesforce-development/references/legacy/firebase/SKILL.md
-
+## Imported Module: Firebase
 ---
 name: firebase
 description: "Firebase gives you a complete backend in minutes - auth, database, storage, functions, hosting. But the ease of setup hides real complexity. Security rules are your last line of defense, and they'r..."
@@ -10626,8 +10618,7 @@ Works well with: `nextjs-app-router`, `react-patterns`, `authentication-oauth`, 
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/salesforce-development/references/legacy/hubspot-integration/SKILL.md
-
+## Imported Module: Hubspot Integration
 ---
 name: hubspot-integration
 description: "Expert patterns for HubSpot CRM integration including OAuth authentication, CRM objects, associations, batch operations, webhooks, and custom objects. Covers Node.js and Python SDKs. Use when: hubs..."
@@ -10676,8 +10667,7 @@ Create, read, update, delete CRM records
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/salesforce-development/references/legacy/m365-agents-dotnet/SKILL.md
-
+## Imported Module: M365 Agents Dotnet
 ---
 name: m365-agents-dotnet
 description: Microsoft 365 Agents SDK for .NET. Build multichannel agents for Teams/M365/Copilot Studio with ASP.NET Core hosting, AgentApplication routing, and MSAL-based auth.
@@ -10973,8 +10963,7 @@ await foreach (var activity in client.AskQuestionAsync("Hello!", null))
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/salesforce-development/references/legacy/m365-agents-py/SKILL.md
-
+## Imported Module: M365 Agents Py
 ---
 name: m365-agents-py
 description: Microsoft 365 Agents SDK for Python. Build multichannel agents for Teams/M365/Copilot Studio with aiohttp hosting, AgentApplication routing, streaming responses, and MSAL-based auth.
@@ -11321,8 +11310,7 @@ asyncio.run(main())
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/salesforce-development/references/legacy/m365-agents-ts/SKILL.md
-
+## Imported Module: M365 Agents Ts
 ---
 name: m365-agents-ts
 description: Microsoft 365 Agents SDK for TypeScript/Node.js.
@@ -11510,8 +11498,7 @@ window.WebChat.renderWebChat({
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/salesforce-development/references/legacy/neon-postgres/SKILL.md
-
+## Imported Module: Neon Postgres
 ---
 name: neon-postgres
 description: "Expert patterns for Neon serverless Postgres, branching, connection pooling, and Prisma/Drizzle integration Use when: neon database, serverless postgres, database branching, neon postgres, postgres..."
@@ -11574,8 +11561,7 @@ Use pooled endpoint for application, direct for migrations.
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/salesforce-development/references/legacy/nestjs-expert/SKILL.md
-
+## Imported Module: Nestjs Expert
 ---
 name: nestjs-expert
 description: "Nest.js framework expert specializing in module architecture, dependency injection, middleware, guards, interceptors, testing with Jest/Supertest, TypeORM/Mongoose integration, and Passport.js auth..."
@@ -12133,8 +12119,7 @@ export class ConfigModule {
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/salesforce-development/references/legacy/new-rails-project/SKILL.md
-
+## Imported Module: New Rails Project
 ---
 name: new-rails-project
 argument-hint: [project name]
@@ -12194,8 +12179,7 @@ Set up the following tech stack:
 # Verify
 Verify the boilerplate is working by running `bin/rails server` and accessing the application at `http://localhost:3000` via playwright MCP.
 
-## Source: references/skills/salesforce-development/references/legacy/odoo-accounting-setup/SKILL.md
-
+## Imported Module: Odoo Accounting Setup
 ---
 name: odoo-accounting-setup
 description: "Expert guide for configuring Odoo Accounting: chart of accounts, journals, fiscal positions, taxes, payment terms, and bank reconciliation."
@@ -12302,8 +12286,7 @@ Action:
 - Payroll accounting integration (salary journals, deduction accounts) is not covered here — use `@odoo-hr-payroll-setup`.
 - Odoo Community Edition does not include the full **lock dates** feature; some controls are Enterprise-only.
 
-## Source: references/skills/salesforce-development/references/legacy/odoo-automated-tests/SKILL.md
-
+## Imported Module: Odoo Automated Tests
 ---
 name: odoo-automated-tests
 description: "Write and run Odoo automated tests using TransactionCase, HttpCase, and browser tour tests. Covers test data setup, mocking, and CI integration."
@@ -12429,8 +12412,7 @@ class TestPatientController(HttpCase):
 - Does not cover **mocking external services** (e.g., mocking an SMTP server or payment gateway in tests).
 - Test isolation is at the **transaction level**, not database level — tests that commit data (e.g., via `cr.commit()`) can leak state between tests.
 
-## Source: references/skills/salesforce-development/references/legacy/odoo-backup-strategy/SKILL.md
-
+## Imported Module: Odoo Backup Strategy
 ---
 name: odoo-backup-strategy
 description: "Complete Odoo backup and restore strategy: database dumps, filestore backup, automated scheduling, cloud storage upload, and tested restore procedures."
@@ -12544,8 +12526,7 @@ docker compose start odoo
 - Filestore path may differ between installations (Docker volume vs. bare-metal). Always verify the path with `odoo-bin shell` before running a restore.
 - Large filestores (100GB+) may require incremental backup tools like `rsync` or `restic` rather than full `tar.gz` archives.
 
-## Source: references/skills/salesforce-development/references/legacy/odoo-ecommerce-configurator/SKILL.md
-
+## Imported Module: Odoo Ecommerce Configurator
 ---
 name: odoo-ecommerce-configurator
 description: "Expert guide for Odoo eCommerce and Website: product catalog, payment providers, shipping methods, SEO, and order-to-fulfillment workflow."
@@ -12680,8 +12661,7 @@ Note: Some Odoo hosting plans may require "Email Marketing" app enabled.
 - **B2B eCommerce** (customer login required, custom catalog and prices per customer) has additional configuration steps not fully covered here.
 - Odoo eCommerce does not support **subscription billing** natively — that requires the Enterprise **Subscriptions** module.
 
-## Source: references/skills/salesforce-development/references/legacy/odoo-edi-connector/SKILL.md
-
+## Imported Module: Odoo Edi Connector
 ---
 name: odoo-edi-connector
 description: "Guide for implementing EDI (Electronic Data Interchange) with Odoo: X12, EDIFACT document mapping, partner onboarding, and automated order processing."
@@ -12794,8 +12774,7 @@ IEA*1*{isa_control}~"""
 - ❌ **Don't:** Process EDI files synchronously in web requests — queue them for async processing.
 - ❌ **Don't:** Hardcode trading partner qualifiers — store them in a configuration table per partner.
 
-## Source: references/skills/salesforce-development/references/legacy/odoo-module-developer/SKILL.md
-
+## Imported Module: Odoo Module Developer
 ---
 name: odoo-module-developer
 description: "Expert guide for creating custom Odoo modules. Covers __manifest__.py, model inheritance, ORM patterns, and module structure best practices."
@@ -12899,8 +12878,7 @@ class HospitalPatient(models.Model):
 - Does not cover **multi-company** or **multi-website** configuration; those require additional model fields (`company_id`, `website_id`).
 - Does not generate automated test files — use `@odoo-automated-tests` for that.
 
-## Source: references/skills/salesforce-development/references/legacy/odoo-orm-expert/SKILL.md
-
+## Imported Module: Odoo Orm Expert
 ---
 name: odoo-orm-expert
 description: "Master Odoo ORM patterns: search, browse, create, write, domain filters, computed fields, and performance-safe query techniques."
@@ -12991,8 +12969,7 @@ for partner in partners:
 - Does not cover **transient models** (`models.TransientModel`) or wizard patterns.
 - ORM behavior can differ slightly between Odoo SaaS and On-Premise due to config overrides.
 
-## Source: references/skills/salesforce-development/references/legacy/odoo-project-timesheet/SKILL.md
-
+## Imported Module: Odoo Project Timesheet
 ---
 name: odoo-project-timesheet
 description: "Expert guide for Odoo Project and Timesheets: task stages, billable time tracking, timesheet approval, budget alerts, and invoicing from timesheets."
@@ -13110,8 +13087,7 @@ Step 3: Invoice pre-populates with:
 - **Time & Materials** invoicing works well for hourly billing but is not suited for **fixed-price projects** — use milestones or manual invoice lines for those.
 - Timesheet entries logged outside an active project-task pair (e.g., on internal projects) are not assignable to customer invoices without custom configuration.
 
-## Source: references/skills/salesforce-development/references/legacy/odoo-purchase-workflow/SKILL.md
-
+## Imported Module: Odoo Purchase Workflow
 ---
 name: odoo-purchase-workflow
 description: "Expert guide for Odoo Purchase: RFQ → PO → Receipt → Vendor Bill workflow, purchase agreements, vendor price lists, and 3-way matching."
@@ -13217,8 +13193,7 @@ based on the ordered quantity for this vendor.
 - Vendor pricelist currency conversion depends on the active **currency rate** in Odoo; rates must be kept current for accuracy.
 - The **2-level approval** is a binary threshold; more complex approval matrices (department-based, multi-tier) require custom development or the Approvals app.
 
-## Source: references/skills/salesforce-development/references/legacy/odoo-qweb-templates/SKILL.md
-
+## Imported Module: Odoo Qweb Templates
 ---
 name: odoo-qweb-templates
 description: "Expert in Odoo QWeb templating for PDF reports, email templates, and website pages. Covers t-if, t-foreach, t-field, and report actions."
@@ -13315,8 +13290,7 @@ QWeb is Odoo's primary templating engine, used for PDF reports, website pages, a
 - QWeb JavaScript (used in Kanban/Form widgets) is a different engine; this skill covers **server-side QWeb only**.
 - Does not cover **wkhtmltopdf configuration** for PDF rendering issues (page size, margins, header/footer overlap).
 
-## Source: references/skills/salesforce-development/references/legacy/odoo-sales-crm-expert/SKILL.md
-
+## Imported Module: Odoo Sales Crm Expert
 ---
 name: odoo-sales-crm-expert
 description: "Expert guide for Odoo Sales and CRM: pipeline stages, quotation templates, pricelists, sales teams, lead scoring, and forecasting."
@@ -13427,8 +13401,7 @@ Assign to a customer:
 - **Territory-based lead assignment** (geographic routing) requires custom rules or the Enterprise Leads module.
 - Odoo CRM does not have native **email sequence / cadence** automation — use the **Email Marketing** or **Marketing Automation** modules for drip campaigns.
 
-## Source: references/skills/salesforce-development/references/legacy/odoo-upgrade-advisor/SKILL.md
-
+## Imported Module: Odoo Upgrade Advisor
 ---
 name: odoo-upgrade-advisor
 description: "Step-by-step Odoo version upgrade advisor: pre-upgrade checklist, community vs enterprise upgrade path, OCA module compatibility, and post-upgrade validation."
@@ -13553,8 +13526,7 @@ Users & Security:
 - The **Odoo.sh** automated upgrade path has a separate workflow (managed from the Odoo.sh dashboard) not covered here.
 - OWL JavaScript component migration (legacy widget → OWL v16+) is a complex front-end topic beyond the scope of this skill.
 
-## Source: references/skills/salesforce-development/references/legacy/odoo-xml-views-builder/SKILL.md
-
+## Imported Module: Odoo Xml Views Builder
 ---
 name: odoo-xml-views-builder
 description: "Expert at building Odoo XML views: Form, List, Kanban, Search, Calendar, and Graph. Generates correct XML for Odoo 14-17 with proper visibility syntax."
@@ -13658,8 +13630,7 @@ This skill generates and reviews Odoo XML view definitions for Kanban, Form, Lis
 - Does not address **website QWeb views** — use `@odoo-qweb-templates` for those.
 - **Cohort and Map views** (Enterprise-only) are not covered by this skill.
 
-## Source: references/skills/salesforce-development/references/legacy/paypal-integration/SKILL.md
-
+## Imported Module: Paypal Integration
 ---
 name: paypal-integration
 description: "Integrate PayPal payment processing with support for express checkout, subscriptions, and refund management. Use when implementing PayPal payments, processing online transactions, or building e-com..."
@@ -14143,8 +14114,7 @@ def test_payment_flow():
 - **Missing Webhooks**: Not handling all payment states
 - **Hardcoded Values**: Not making configurable for different environments
 
-## Source: references/skills/salesforce-development/references/legacy/plaid-fintech/SKILL.md
-
+## Imported Module: Plaid Fintech
 ---
 name: plaid-fintech
 description: "Expert patterns for Plaid API integration including Link token flows, transactions sync, identity verification, Auth for ACH, balance checks, webhook handling, and fintech compliance best practices..."
@@ -14201,8 +14171,7 @@ Listen for PENDING_DISCONNECT webhook to proactively prompt users.
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/salesforce-development/references/legacy/rails-upgrade/SKILL.md
-
+## Imported Module: Rails Upgrade
 ---
 name: rails-upgrade
 description: Rails Upgrade
@@ -14210,8 +14179,7 @@ description: Rails Upgrade
 
 404: Not Found
 
-## Source: references/skills/salesforce-development/references/legacy/skill-rails-upgrade/SKILL.md
-
+## Imported Module: Skill Rails Upgrade
 ---
 name: skill-rails-upgrade
 description: "Analyze Rails apps and provide upgrade assessments"
@@ -14622,8 +14590,7 @@ Use this skill when working with analyze rails apps and provide upgrade assessme
 4. **Transparency** - Show the user exactly what will change before doing it
 5. **Reversibility** - User should be able to `git checkout` to restore if needed
 
-## Source: references/skills/salesforce-development/references/legacy/stripe-integration/SKILL.md
-
+## Imported Module: Stripe Integration
 ---
 name: stripe-integration
 description: "Implement Stripe payment processing for robust, PCI-compliant payment flows including checkout, subscriptions, and webhooks. Use when integrating Stripe payments, building subscription systems, or ..."
@@ -15082,8 +15049,7 @@ def test_payment_flow():
 - **No Retry Logic**: Implement retries for API calls
 - **Ignoring Test Mode**: Test all edge cases with test cards
 
-## Source: references/skills/salesforce-development/references/legacy/upgrading-expo/SKILL.md
-
+## Imported Module: Upgrading Expo
 ---
 name: upgrading-expo
 description: "Upgrade Expo SDK versions"
@@ -15204,8 +15170,7 @@ npx expo-doctor
 
 For more information, see the [source repository](https://github.com/expo/skills/tree/main/plugins/upgrading-expo).
 
-## Source: references/skills/salesforce-development/references/legacy/using-neon/SKILL.md
-
+## Imported Module: Using Neon
 ---
 name: using-neon
 description: "Guides and best practices for working with Neon Serverless Postgres. Covers getting started, local development with Neon, choosing a connection method, Neon features, authentication (@neondatabase/..."
@@ -15292,8 +15257,7 @@ Managing Neon resources programmatically via REST API, SDKs, or CLI.
 | TypeScript SDK        | `references/neon-typescript-sdk.md` | `@neondatabase/api-client`                   |
 | Python SDK            | `references/neon-python-sdk.md`     | `neon-api` package                           |
 
-## Source: references/skills/salesforce-development/references/legacy/vercel-ai-sdk-expert/SKILL.md
-
+## Imported Module: Vercel Ai Sdk Expert
 ---
 name: vercel-ai-sdk-expert
 description: "Expert in the Vercel AI SDK. Covers Core API (generateText, streamText), UI hooks (useChat, useCompletion), tool calling, and streaming UI components with React and Next.js."
@@ -15517,8 +15481,7 @@ When using `maxSteps`, the `useChat` hook will display intermediate tool calls i
 **Problem:** "Tool execution failed" or the LLM didn't return an answer after using a tool.
 **Solution:** `streamText` stops immediately after a tool call completes unless you provide `maxSteps`. Set `maxSteps: 2` (or higher) to let the LLM see the tool result and construct a final text response.
 
-## Source: references/skills/salesforce-development/references/legacy/wordpress/SKILL.md
-
+## Imported Module: Wordpress
 ---
 name: wordpress
 description: "Complete WordPress development workflow covering theme development, plugin creation, WooCommerce integration, performance optimization, and security hardening."
@@ -15838,8 +15801,7 @@ Before moving to next phase, verify:
 - `testing-qa` - Testing workflow
 - `ecommerce` - E-commerce development
 
-## Source: references/skills/salesforce-development/references/legacy/wordpress-plugin-development/SKILL.md
-
+## Imported Module: Wordpress Plugin Development
 ---
 name: wordpress-plugin-development
 description: "WordPress plugin development workflow covering plugin architecture, hooks, admin interfaces, REST API, and security best practices."
@@ -16044,8 +16006,7 @@ plugin-name/
 - `wordpress-theme-development` - Theme development
 - `wordpress-woocommerce` - WooCommerce
 
-## Source: references/skills/salesforce-development/references/legacy/wordpress-theme-development/SKILL.md
-
+## Imported Module: Wordpress Theme Development
 ---
 name: wordpress-theme-development
 description: "WordPress theme development workflow covering theme architecture, template hierarchy, custom post types, block editor support, and responsive design."

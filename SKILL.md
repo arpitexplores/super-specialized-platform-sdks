@@ -40,13 +40,12 @@ Build integrations with specific platforms using their SDKs and best practices.
 
 ## Bundled References
 - `references/modules/`
-- `references/toolkit/`
 - `scripts/`
 - `assets/`
 - `agents/`
 
 ## Compatibility Notes
-- If any module references slash commands or tool-specific legacy paths, translate them into plain-language steps.
+- If any module references slash commands or tool-specific paths, translate them into plain-language steps.
 - Keep outputs platform-agnostic unless the user specifies a specific tool, stack, or agent.
 
 ## Guardrails

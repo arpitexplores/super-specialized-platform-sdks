@@ -1,5 +1,4 @@
-## Source: references/skills/shopify-development/SKILL.md
-
+## Module: Shopify Development
 ---
 name: shopify-development
 description: Build Shopify apps, extensions, themes using GraphQL Admin API, Shopify CLI, Polaris UI, and Liquid.
@@ -371,7 +370,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: odoo-shopify-integration
@@ -475,7 +474,7 @@ def shopify_order_webhook():
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: odoo-woocommerce-bridge
@@ -609,7 +608,7 @@ def sync_inventory_to_woocommerce():
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: shopify-apps
@@ -661,7 +660,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: wordpress-woocommerce-development
@@ -851,8 +850,7 @@ Use @playwright-skill to test WooCommerce checkout flow
 - `wordpress-plugin-development` - Plugin development
 - `payment-integration` - Payment processing
 
-## Source: references/skills/shopify-development/references/legacy/odoo-shopify-integration/SKILL.md
-
+## Imported Module: Odoo Shopify Integration
 ---
 name: odoo-shopify-integration
 description: "Connect Odoo with Shopify: sync products, inventory, orders, and customers using the Shopify API and Odoo's external API or connector modules."
@@ -953,8 +951,7 @@ def shopify_order_webhook():
 - ❌ **Don't:** Sync inventory from both systems simultaneously without a "master system" — pick one as the source of truth.
 - ❌ **Don't:** Use Shopify product IDs as the key — use SKUs which are stable across platforms.
 
-## Source: references/skills/shopify-development/references/legacy/odoo-woocommerce-bridge/SKILL.md
-
+## Imported Module: Odoo Woocommerce Bridge
 ---
 name: odoo-woocommerce-bridge
 description: "Sync Odoo with WooCommerce: products, inventory, orders, and customers via WooCommerce REST API and Odoo external API."
@@ -1085,8 +1082,7 @@ def sync_inventory_to_woocommerce():
 - ❌ **Don't:** Process the same WooCommerce order twice — flag it as processed immediately after import.
 - ❌ **Don't:** Sync draft or cancelled WooCommerce orders to Odoo — filter by `status = processing` or `completed`.
 
-## Source: references/skills/shopify-development/references/legacy/shopify-apps/SKILL.md
-
+## Imported Module: Shopify Apps
 ---
 name: shopify-apps
 description: "Expert patterns for Shopify app development including Remix/React Router apps, embedded apps with App Bridge, webhook handling, GraphQL Admin API, Polaris components, billing, and app extensions. U..."
@@ -1135,8 +1131,7 @@ Secure webhook processing with HMAC verification
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/shopify-development/references/legacy/wordpress-woocommerce-development/SKILL.md
-
+## Imported Module: Wordpress Woocommerce Development
 ---
 name: wordpress-woocommerce-development
 description: "WooCommerce store development workflow covering store setup, payment integration, shipping configuration, and customization."

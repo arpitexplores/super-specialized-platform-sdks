@@ -1,5 +1,4 @@
-## Source: references/skills/telegram-bot-builder/SKILL.md
-
+## Module: Telegram Bot Builder
 ---
 name: telegram-bot-builder
 description: "Expert in building Telegram bots that solve real problems - from simple automation to complex AI-powered bots. Covers bot architecture, the Telegram Bot API, user experience, monetization strategie..."
@@ -262,7 +261,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: amazon-alexa
@@ -496,7 +495,7 @@ def chat_handler(handler_input: HandlerInput) -> Response:
         # Chamar AI assistant
         client = anthropic.Anthropic(api_key=os.environ["ANTHROPIC_API_KEY"])
         response = client.messages.create(
-            model=CLAUDE_MODEL,
+            model=MODEL_NAME,
             max_tokens=512,
             system=AURI_SYSTEM_PROMPT,
             messages=messages
@@ -928,7 +927,7 @@ def get_secret(secret_name):
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: automate-whatsapp
@@ -939,7 +938,7 @@ description: Automate Whatsapp
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: integrate-whatsapp
@@ -950,7 +949,7 @@ description: Integrate Whatsapp
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: observe-whatsapp
@@ -961,7 +960,7 @@ description: Observe Whatsapp
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: slack-bot-builder
@@ -1235,7 +1234,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: slack-gif-creator
@@ -1499,7 +1498,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: telegram
@@ -2080,7 +2079,7 @@ Se receber erro 429 (Too Many Requests), respeite o `retry_after` retornado.
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: telegram-mini-app
@@ -2369,7 +2368,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: twilio-communications
@@ -2672,8 +2671,7 @@ def menu_selection():
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/telegram-bot-builder/references/legacy/amazon-alexa/SKILL.md
-
+## Imported Module: Amazon Alexa
 ---
 name: amazon-alexa
 description: Integracao completa com Amazon Alexa para criar skills de voz inteligentes, transformar Alexa em assistente com AI assistant como cerebro (projeto Auri) e integrar com AWS ecosystem (Lambda, DynamoDB,...
@@ -2906,7 +2904,7 @@ def chat_handler(handler_input: HandlerInput) -> Response:
         # Chamar AI assistant
         client = anthropic.Anthropic(api_key=os.environ["ANTHROPIC_API_KEY"])
         response = client.messages.create(
-            model=CLAUDE_MODEL,
+            model=MODEL_NAME,
             max_tokens=512,
             system=AURI_SYSTEM_PROMPT,
             messages=messages
@@ -3336,8 +3334,7 @@ def get_secret(secret_name):
 - Applying recommendations without understanding your specific context
 - Not providing enough project context for accurate analysis
 
-## Source: references/skills/telegram-bot-builder/references/legacy/automate-whatsapp/SKILL.md
-
+## Imported Module: Automate Whatsapp
 ---
 name: automate-whatsapp
 description: Automate Whatsapp
@@ -3345,8 +3342,7 @@ description: Automate Whatsapp
 
 404: Not Found
 
-## Source: references/skills/telegram-bot-builder/references/legacy/integrate-whatsapp/SKILL.md
-
+## Imported Module: Integrate Whatsapp
 ---
 name: integrate-whatsapp
 description: Integrate Whatsapp
@@ -3354,8 +3350,7 @@ description: Integrate Whatsapp
 
 404: Not Found
 
-## Source: references/skills/telegram-bot-builder/references/legacy/observe-whatsapp/SKILL.md
-
+## Imported Module: Observe Whatsapp
 ---
 name: observe-whatsapp
 description: Observe Whatsapp
@@ -3363,8 +3358,7 @@ description: Observe Whatsapp
 
 404: Not Found
 
-## Source: references/skills/telegram-bot-builder/references/legacy/slack-bot-builder/SKILL.md
-
+## Imported Module: Slack Bot Builder
 ---
 name: slack-bot-builder
 description: "Build Slack apps using the Bolt framework across Python, JavaScript, and Java. Covers Block Kit for rich UIs, interactive components, slash commands, event handling, OAuth installation flows, and W..."
@@ -3635,8 +3629,7 @@ app = App(
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/telegram-bot-builder/references/legacy/slack-gif-creator/SKILL.md
-
+## Imported Module: Slack Gif Creator
 ---
 name: slack-gif-creator
 description: "Knowledge and utilities for creating animated GIFs optimized for Slack. Provides constraints, validation tools, and animation concepts. Use when users request animated GIFs for Slack like \"..."
@@ -3897,8 +3890,7 @@ pip install pillow imageio numpy
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/telegram-bot-builder/references/legacy/telegram/SKILL.md
-
+## Imported Module: Telegram
 ---
 name: telegram
 description: Integracao completa com Telegram Bot API. Setup com BotFather, mensagens, webhooks, inline keyboards, grupos, canais. Boilerplates Node.js e Python.
@@ -4476,8 +4468,7 @@ Se receber erro 429 (Too Many Requests), respeite o `retry_after` retornado.
 - `social-orchestrator` - Complementary skill for enhanced analysis
 - `whatsapp-cloud-api` - Complementary skill for enhanced analysis
 
-## Source: references/skills/telegram-bot-builder/references/legacy/telegram-mini-app/SKILL.md
-
+## Imported Module: Telegram Mini App
 ---
 name: telegram-mini-app
 description: "Expert in building Telegram Mini Apps (TWA) - web apps that run inside Telegram with native-like experience. Covers the TON ecosystem, Telegram Web App API, payments, user authentication, and build..."
@@ -4763,8 +4754,7 @@ Works well with: `telegram-bot-builder`, `frontend`, `blockchain-defi`, `viral-g
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/telegram-bot-builder/references/legacy/twilio-communications/SKILL.md
-
+## Imported Module: Twilio Communications
 ---
 name: twilio-communications
 description: "Build communication features with Twilio: SMS messaging, voice calls, WhatsApp Business API, and user verification (2FA). Covers the full spectrum from simple notifications to complex IVR systems a..."
